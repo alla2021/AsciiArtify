@@ -11,5 +11,6 @@
 Based on the comparative analysis of each tool, we recommend using **K3d** for the "AsciiArtify" startup's Proof of Concept (PoC). This tool provides fast deployment and easy configuration of Kubernetes clusters in Docker containers, meeting the startup's needs with minimal effort and constraints.
 
 ## Demo
+[k3d demo](https://asciinema.org/a/QbrLEbZ88NYgSz8rzQlte0sQy):
+![Image](data/k3d-demo.gif)
 
-https://asciinema.org/connect/6a2c7064-e54a-427e-9ad8-d9d1cb1d29ab
